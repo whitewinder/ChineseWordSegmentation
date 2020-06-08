@@ -1,0 +1,2 @@
+# ChineseWordSegmentation
+Chinese Word Segmentation
