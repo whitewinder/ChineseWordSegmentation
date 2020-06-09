@@ -1,6 +1,5 @@
-# WordSegWithConv
+# WordSegWithCNN
 卷积神经网络实现中文分词
-Corresponding paper IJCNLP2017- [**Convolutional Neural Network with Word Embeddings for Chinese Word Segmentation**](https://arxiv.org/pdf/1711.04411.pdf)
 
 ## 环境依赖
 python2.7
