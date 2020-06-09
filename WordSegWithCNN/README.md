@@ -1,7 +1,3 @@
----
-typora-copy-images-to: upload
----
-
 # WordSegWithCNN
 卷积神经网络实现中文分词
 
