@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: upload
+---
+
 # WordSegWithCNN
 卷积神经网络实现中文分词
 
@@ -69,5 +73,5 @@ WHICH_GPU，如果用CPU训练，词参数为空即可，如果是在gpu0上训�
 
    python server.py --task cws --model_dir xxx --port 8765
 
-![屏幕快照 2020-06-09 上午11.07.55](/Users/wangwenhua/Desktop/屏幕快照 2020-06-09 上午11.07.55.png)
+![](/Users/wangwenhua/Desktop/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-06-09%20%E4%B8%8A%E5%8D%8811.07.55.png)
 
