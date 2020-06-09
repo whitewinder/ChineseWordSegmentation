@@ -72,3 +72,5 @@ WHICH_GPU，如果用CPU训练，词参数为空即可，如果是在gpu0上训�
 服务启动文件，server.py，设置参数task(cws)、model_dir(训练好的模型文件目录)、port(服务端口)
 
    python server.py --task cws --model_dir xxx --port 8765
+
+![屏幕快照 2020-06-09 上午11.07.55](https://tva1.sinaimg.cn/large/007S8ZIlly1gflyd8dx5sj30vp0da0uk.jpg)
