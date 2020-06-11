@@ -1,4 +1,11 @@
-# -*- coding:utf-8 -*-
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+########################################################################
+#
+# Copyright (c) wangwenhua 971112338.com, Inc. All Rights Reserved
+#
+########################################################################
+
 from __future__ import division, print_function
 import os
 import jieba
